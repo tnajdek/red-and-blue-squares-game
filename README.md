@@ -1,4 +1,4 @@
-#LOL - The Red and Blue Square game.
+#LOL - The Red and Blue Squares game.
 
 ##Description
 
