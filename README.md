@@ -24,6 +24,7 @@ More details can be found on http://doppnet.com/
 GNU GPL 3
 
 This project makes use of the following open-source products that have been included in the source code for convienience:
+
 * PHP WebSockets released on the GNU GPL v3 license (http://code.google.com/p/phpwebsocket/)
 * Flash WebSocket implementation released on New BSD License (https://github.com/gimite/web-socket-js)
 
