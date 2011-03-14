@@ -27,4 +27,5 @@ This project makes use of the following open-source products that have been incl
 
 * PHP WebSockets released on the GNU GPL v3 license (http://code.google.com/p/phpwebsocket/)
 * Flash WebSocket implementation released on New BSD License (https://github.com/gimite/web-socket-js)
+* jQuery and jQuery doTimeout both dual licensed under the MIT or GPL Version 2 licenses
 
