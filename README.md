@@ -21,9 +21,9 @@ More details can be found on http://doppnet.com/
 * Point your WebSockets capable browser to your webserver
 
 ##License
-GNU GPL 3
+This code is released under MIT License.
 
-This project makes use of the following open-source products that have been included in the source code for convienience:
+However the following items included in this repository are licensed differently:
 
 * PHP WebSockets released on the GNU GPL v3 license (http://code.google.com/p/phpwebsocket/)
 * Flash WebSocket implementation released on New BSD License (https://github.com/gimite/web-socket-js)
